@@ -1,2 +1,0 @@
-# landingdatebayo
-Pagina html
